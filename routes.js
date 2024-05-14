@@ -36,4 +36,4 @@ const routes = [
   },
 ];
 
-module.export = routes;
+module.exports = routes;
